@@ -1,4 +1,9 @@
-### Hi there 👋
+### Hi there ✌
+
+- 🔭 I’m currently discover the it world
+
+
+
 
 <!--
 **christinemariametz/christinemariametz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
