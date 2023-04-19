@@ -1,6 +1,6 @@
 ### Hi there ✌
 
-- 🔭 I’m currently discover the it world
+- 🔭 I’m currently discover the IT-world
 
 
 
